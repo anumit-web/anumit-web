@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![anumit-web's Stats](https://github-readme-stats.vercel.app/api?username=anumit-web&theme=maroongold&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anumit-web&theme=neon-blurange)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anumit-web&layout=compact)
