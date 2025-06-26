@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... avid stone collector
 
 
-test 123
-
 ![anumit-web's Stats](https://github-readme-stats.vercel.app/api?username=anumit-web&theme=maroongold&show_icons=true&hide_border=false&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anumit-web&theme=neon-blurange)](https://git.io/streak-stats)
